@@ -7,9 +7,8 @@ This project is a backend system built with Django REST Framework (DRF) for mana
 ## 🔧 Setup Instructions
 
 1. **Clone the repository:**
-   ```bash
-  git clone https://github.com/PinjariAbdul/sarvasuvidhan-backend.git
-   cd sarvasuvidhan-backend ```bash
+   ```bash git clone https://github.com/PinjariAbdul/sarvasuvidhan-backend.git
+           cd sarvasuvidhan-backend 
 
 2.Create a virtual environment and activate:
    python -m venv apidevelopment
